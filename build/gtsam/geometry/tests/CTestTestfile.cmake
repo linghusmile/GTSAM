@@ -1,0 +1,35 @@
+# CMake generated Testfile for 
+# Source directory: /home/chappie/git/gtsam/gtsam/geometry/tests
+# Build directory: /home/chappie/git/gtsam/build/gtsam/geometry/tests
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(testRot2 "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testRot2")
+add_test(testEssentialMatrix "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testEssentialMatrix")
+add_test(testRot3Q "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testRot3Q")
+add_test(testOrientedPlane3 "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testOrientedPlane3")
+add_test(testCal3Bundler "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testCal3Bundler")
+add_test(testSimpleCamera "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testSimpleCamera")
+add_test(testCalibratedCamera "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testCalibratedCamera")
+add_test(testSO3 "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testSO3")
+add_test(testStereoCamera "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testStereoCamera")
+add_test(testPinholeCamera "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testPinholeCamera")
+add_test(testPose2 "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testPose2")
+add_test(testSerializationGeometry "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testSerializationGeometry")
+add_test(testPinholeSet "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testPinholeSet")
+add_test(testPinholePose "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testPinholePose")
+add_test(testUnit3 "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testUnit3")
+add_test(testCal3Unified "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testCal3Unified")
+add_test(testTriangulation "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testTriangulation")
+add_test(testCal3_S2 "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testCal3_S2")
+add_test(testQuaternion "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testQuaternion")
+add_test(testStereoPoint2 "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testStereoPoint2")
+add_test(testBearingRange "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testBearingRange")
+add_test(testCameraSet "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testCameraSet")
+add_test(testPoint2 "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testPoint2")
+add_test(testPoint3 "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testPoint3")
+add_test(testCal3DS2 "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testCal3DS2")
+add_test(testCyclic "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testCyclic")
+add_test(testRot3 "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testRot3")
+add_test(testRot3M "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testRot3M")
+add_test(testPose3 "/home/chappie/git/gtsam/build/gtsam/geometry/tests/testPose3")

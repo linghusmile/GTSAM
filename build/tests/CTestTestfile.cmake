@@ -1,0 +1,37 @@
+# CMake generated Testfile for 
+# Source directory: /home/chappie/git/gtsam/tests
+# Build directory: /home/chappie/git/gtsam/build/tests
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(testDoglegOptimizer "/home/chappie/git/gtsam/build/tests/testDoglegOptimizer")
+add_test(testIterative "/home/chappie/git/gtsam/build/tests/testIterative")
+add_test(testSimulated2DOriented "/home/chappie/git/gtsam/build/tests/testSimulated2DOriented")
+add_test(testLie "/home/chappie/git/gtsam/build/tests/testLie")
+add_test(testSerializationSLAM "/home/chappie/git/gtsam/build/tests/testSerializationSLAM")
+add_test(testVisualISAM2 "/home/chappie/git/gtsam/build/tests/testVisualISAM2")
+add_test(testMarginals "/home/chappie/git/gtsam/build/tests/testMarginals")
+add_test(testNonlinearFactorGraph "/home/chappie/git/gtsam/build/tests/testNonlinearFactorGraph")
+add_test(testExpressionFactor "/home/chappie/git/gtsam/build/tests/testExpressionFactor")
+add_test(testGaussianISAM2 "/home/chappie/git/gtsam/build/tests/testGaussianISAM2")
+add_test(testGaussianFactorGraphB "/home/chappie/git/gtsam/build/tests/testGaussianFactorGraphB")
+add_test(testGeneralSFMFactorB "/home/chappie/git/gtsam/build/tests/testGeneralSFMFactorB")
+add_test(testBoundingConstraint "/home/chappie/git/gtsam/build/tests/testBoundingConstraint")
+add_test(testPreconditioner "/home/chappie/git/gtsam/build/tests/testPreconditioner")
+add_test(testExtendedKalmanFilter "/home/chappie/git/gtsam/build/tests/testExtendedKalmanFilter")
+add_test(testSubgraphSolver "/home/chappie/git/gtsam/build/tests/testSubgraphSolver")
+add_test(testNonlinearISAM "/home/chappie/git/gtsam/build/tests/testNonlinearISAM")
+add_test(testGaussianJunctionTreeB "/home/chappie/git/gtsam/build/tests/testGaussianJunctionTreeB")
+add_test(testGraph "/home/chappie/git/gtsam/build/tests/testGraph")
+add_test(testGradientDescentOptimizer "/home/chappie/git/gtsam/build/tests/testGradientDescentOptimizer")
+add_test(testSimulated2D "/home/chappie/git/gtsam/build/tests/testSimulated2D")
+add_test(testRot3Optimization "/home/chappie/git/gtsam/build/tests/testRot3Optimization")
+add_test(testSimulated3D "/home/chappie/git/gtsam/build/tests/testSimulated3D")
+add_test(testNonlinearEquality "/home/chappie/git/gtsam/build/tests/testNonlinearEquality")
+add_test(testNonlinearOptimizer "/home/chappie/git/gtsam/build/tests/testNonlinearOptimizer")
+add_test(testManifold "/home/chappie/git/gtsam/build/tests/testManifold")
+add_test(testSubgraphPreconditioner "/home/chappie/git/gtsam/build/tests/testSubgraphPreconditioner")
+add_test(testGaussianBayesTreeB "/home/chappie/git/gtsam/build/tests/testGaussianBayesTreeB")
+add_test(testNonlinearFactor "/home/chappie/git/gtsam/build/tests/testNonlinearFactor")
+add_test(testPCGSolver "/home/chappie/git/gtsam/build/tests/testPCGSolver")
+add_test(testGaussianISAM "/home/chappie/git/gtsam/build/tests/testGaussianISAM")
